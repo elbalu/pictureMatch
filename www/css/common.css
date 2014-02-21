@@ -1,0 +1,107 @@
+#widget {
+    height: 100%;
+}
+
+#widget, #dest {
+	text-align: center;
+}
+#dest img{
+	height: 100px;
+
+}
+
+#dest {
+	margin: 15px;
+	padding: 10px;
+}
+#dest #placeDest{ 
+	width: 80px;
+	height: 80px;
+	padding: 5px;
+	float:left;
+	z-index: -1;
+    border: 5px solid #e74c3c;
+}
+
+.highlight {
+    border: 5px solid #e74c3c;
+}
+
+.sprites { background: url(../img/sprites.png) no-repeat; float: left;}
+.alphaa_a { width: 67px; height: 56px; background-position: -6px -404px; }
+.alphaa_b { width: 50px; height: 54px; background-position: -143px -179px; }
+.alphaa_c { width: 53px; height: 53px; background-position: -143px -357px; }
+.alphaa_d { width: 52px; height: 51px; background-position: -144px -298px; }
+.alphaa_e { width: 50px; height: 51px; background-position: -146px -1px; }
+.alphaa_f { width: 52px; height: 52px; background-position: -8px -174px; }
+
+.alphaa_g { width: 60px; height: 55px; background-position: -8px -117px; }
+
+.alphaa_h { width: 56px; height: 51px; background-position: -64px -62px; }
+
+.alphaa_i { width: 36px; height: 52px; background-position: -84px -419px; }
+
+.alphaa_j { width: 55px; height: 52px; background-position: -1px -2px; }
+
+.alphaa_k { width: 59px; height: 51px; background-position: -139px -476px; }
+
+.alphaa_l { width: 51px; height: 53px; background-position: -79px -476px; }
+
+.alphaa_m { width: 68px; height: 51px; background-position: 0 -294px; }
+
+.alphaa_n { width: 62px; height: 54px; background-position: 0 -59px; }
+
+.alphaa_o { width: 57px; height: 53px; background-position: -83px -360px; }
+
+.alphaa_p { width: 52px; height: 55px; background-position: -144px -240px; }
+
+.alphaa_q { width: 63px; height: 59px; background-position: -70px -179px; }
+
+.alphaa_r { width: 60px; height: 55px; background-position: -79px -296px; }
+
+.alphaa_s { width: 53px; height: 54px; background-position: -11px -472px; }
+
+.alphaa_t { width: 66px; height: 54px; background-position: -3px -233px; }
+
+.alphaa_u { width: 62px; height: 56px; background-position: -74px -1px; }
+
+.alphaa_v { width: 65px; height: 53px; background-position: -133px -59px; }
+
+.alphaa_w { width: 78px; height: 55px; background-position: -88px -118px; }
+
+.alphaa_x { width: 62px; height: 55px; background-position: -13px -348px; }
+
+.alphaa_y { width: 61px; height: 52px; background-position: -135px -421px; }
+
+.alphaa_z { width: 62px; height: 50px; background-position: -76px -242px; }
+
+
+
+
+.asprites { background: url(../img/alphasprites.png) no-repeat; float: right;}
+.aeroplane { width: 100px; height: 66px; background-position: 0 -1963px; }
+.bat { width: 100px; height: 47px; background-position: 0 -2314px; }
+.car { width: 100px; height: 57px; background-position: 0 -2094px; }
+.dog { width: 100px; height: 81px; background-position: 0 -1733px; }
+.elephant { width: 100px; height: 75px; background-position: 0 -1815px; }
+.fish { width: 100px; height: 63px; background-position: 0 -2030px; }
+.girl { width: 100px; height: 130px; background-position: 0 -410px; }
+.hat { width: 100px; height: 90px; background-position: 0 -1288px; }
+.icecream { width: 100px; height: 133px; background-position: 0 -144px; }
+.juice { width: 100px; height: 143px; background-position: 0 0; }
+.kangroo { width: 100px; height: 86px; background-position: 0 -1560px; }
+.lion { width: 100px; height: 131px; background-position: 0 -278px; }
+.monkey { width: 100px; height: 90px; background-position: 0 -1379px; }
+.nest { width: 100px; height: 56px; background-position: 0 -2152px; }
+.orange { width: 100px; height: 100px; background-position: 0 -991px; }
+.pencil { width: 100px; height: 97px; background-position: 0 -1092px; }
+.queen { width: 100px; height: 123px; background-position: 0 -541px; }
+.rabbit { width: 100px; height: 109px; background-position: 0 -779px; }
+.snake { width: 100px; height: 51px; background-position: 0 -2262px; }
+.tiger { width: 100px; height: 101px; background-position: 0 -889px; }
+.umbrella { width: 100px; height: 97px; background-position: 0 -1190px; }
+.van { width: 100px; height: 71px; background-position: 0 -1891px; }
+.watch { width: 100px; height: 52px; background-position: 0 -2209px; }
+.xmas { width: 100px; height: 113px; background-position: 0 -665px; }
+.yak { width: 100px; height: 89px; background-position: 0 -1470px; }
+.zeebra { width: 100px; height: 85px; background-position: 0 -1647px; }
